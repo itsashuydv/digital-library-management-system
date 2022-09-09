@@ -1,0 +1,11 @@
+.user-data {
+    margin: 20px;
+    padding: 10px;
+    text-align: center;
+}
+.data{
+    font-size: 30px;
+    text-align: center;
+    padding: 20px;
+    background-color: darkorange;
+}
